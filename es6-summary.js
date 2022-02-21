@@ -17,3 +17,7 @@ let massage ='How are you?'
 
 let fullMassage = `Hi!, ${firstName}, ${lastName}, ${massage}`;
 console.log(fullMassage);
+
+let myMsg = 'i am fine, nice to commit in your repo btw :v :3';
+let fullMessage = `Hi, I am arnob! ${myMsg}`;
+console.log(fullMessage);
